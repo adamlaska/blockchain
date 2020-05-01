@@ -24,7 +24,7 @@
   "dependencies": {
     "bn": "^1.0.1",
     "deep-equal": "^0.2.1",
-    "iced-error": "0.0.9",
+    "iced-error": "0.0.13",
     "iced-runtime": "^1.0.0",
     "iced-utils": "^0.1.19",
     "keybase-bitcoinjs-lib": "^0.2.0-3",
